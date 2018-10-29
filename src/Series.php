@@ -3,7 +3,7 @@
  * Dawid Dziedzic, https://github.com/Gumkle?tab=repositories
  * I'm quite new to programming, leave some feedback on GitHub!
  */
-namespace App\Console\Commands;
+namespace Series;
 
 use Illuminate\Console\Command;
 
