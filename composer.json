@@ -1,0 +1,15 @@
+{
+    "name": "gumkle/laravel_series",
+    "description": "Package for creating series of entities (artisan make)",
+    "type": "laravel-command",
+    "authors": [
+        {
+            "name": "Gumkle",
+            "email": "dziedzicdev@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+    	"psr-4": {"Series\\": "src/"}
+    }
+}
